@@ -1,2 +1,2 @@
-# With-SQL
+# SQL
 JUSTIT-Practise and Assignment
